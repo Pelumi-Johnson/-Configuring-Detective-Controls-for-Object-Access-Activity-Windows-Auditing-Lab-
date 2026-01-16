@@ -2,7 +2,8 @@
 
 ![Badge](https://img.shields.io/badge/Security%20Monitoring-Event%20Viewer%20%7C%20Audit%20Logs-yellow?style=for-the-badge)
 
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/blob/main/Name_%20Pelumi%20Johnson%20%20%20Date_%20January%2015%2C%202026%20%20%20I)
+📄 **Full Lab Report:**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-Configuring-Detective-Controls-for-Object-Access-Activity-Windows-Auditing-Lab-/blob/main/Configuring%20Detective%20Controls%20for%20Object%20Access%20Activity.pdf)
 
 ## 📌 Lab Details
 **Name:** Pelumi Johnson  
