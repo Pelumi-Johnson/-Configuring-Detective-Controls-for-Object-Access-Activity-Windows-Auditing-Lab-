@@ -126,8 +126,8 @@ The session was signed out from PC10 to complete the lab.
 ● Audit object access was enabled for Success and Failure in Local Security Policy  
 ● Object-level auditing was configured on **C:\LABFILES** for deletions  
 ● Deletion activity generated Security log records  
-● Event ID 4660 confirmed deletion occurred  
-● Event ID 4663 confirmed the object name/path and access details  
+● Event ID **4660** confirmed deletion occurred  
+● Event ID **4663** confirmed the object name/path and access details  
 ● Detective control was implemented and validated 
 
 ---
